@@ -1,4 +1,4 @@
-USE `redm_extended`;
+USE `rdx_core`;
 
 CREATE TABLE `billing` (
 	`id` int(11) NOT NULL AUTO_INCREMENT,
