@@ -1,6 +1,15 @@
-# rdx_billing
+# RDX Billing
+Billing System for RDX Core
 
-# 1- Extract the file, put it in your resource folder.
+## Requirements
+- [RDX Core]()
 
-# 2- Put in your server.sfg ensure rdx_billing
-# Have fun
+## How to install
+* Download the lastest version of RDX Billing
+* Copy and paste ```rdx_billing``` folder to ```resources/rdx_billing```
+* Insert the .sql file into your database.
+* Add ```ensure rdx_billing``` to your ```server.cfg``` file
+* Now you are ready!
+
+
+ Add ```ensure rdx_billing``` in server.cfg
